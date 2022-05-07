@@ -1,7 +1,7 @@
-# ℹ️ Mk Bike's 
+# ℹ️ Mk Bike's 🏍️
 
-* ### MK Bike's is a website for Bike selling Platforms.
-* ### MK Bike's sell the Bike's and Bike Accessories.
+* ### MK Bike's is a website for Bike selling Platforms 🏍️.
+* ### MK Bike's sell the Bike's and Bike Accessories 🏁.
 * ### MK Bike's contains information like Bike **CC and Bike Price**.
 
 ---
